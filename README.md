@@ -5,8 +5,8 @@ I am a full-stack software engineer offering relevant internship experience and 
 ### 📝 FlashCode
 > A web app to create and study flashcards tailored to LeetCode problems' questions, solutions, approaches, and time/space complexities.
 
-[![GitHub](https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=GitHub)](link)
-[![Demo](https://img.shields.io/badge/Demo-grey?style=for-the-badge&logo=html5)](link)
+[![GitHub](https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=GitHub)](https://github.com/stevenbui44/flashcode)
+[![Demo](https://img.shields.io/badge/Demo-grey?style=for-the-badge&logo=html5)](https://stevenbui44.github.io/#flashcode)
 
 **Tech Stack:**
 - Backend: ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -17,8 +17,8 @@ I am a full-stack software engineer offering relevant internship experience and 
 ### 🎬 Movia
 > A personalized movie recommendation engine that helps you discover films based on specific keywords and preferences.
 
-[![GitHub](https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=GitHub)](link)
-[![Demo](https://img.shields.io/badge/Demo-grey?style=for-the-badge&logo=html5)](link)
+[![GitHub](https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=GitHub)](https://github.com/stevenbui44/movia)
+[![Demo](https://img.shields.io/badge/Demo-grey?style=for-the-badge&logo=html5)](https://stevenbui44.github.io/#movia)
 
 **Tech Stack:**
 - Backend: ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-302c24?style=flat&logo=express&logoColor=white)
@@ -29,8 +29,8 @@ I am a full-stack software engineer offering relevant internship experience and 
 ### 🎵 Syncify
 > A Spotify playlist combiner that preserves the chronological order of your favorite songs across multiple playlists.
 
-[![GitHub](https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=GitHub)](link)
-[![Demo](https://img.shields.io/badge/Demo-grey?style=for-the-badge&logo=html5)](link)
+[![GitHub](https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=GitHub)](https://github.com/stevenbui44/syncify)
+[![Demo](https://img.shields.io/badge/Demo-grey?style=for-the-badge&logo=html5)](https://stevenbui44.github.io/#syncify)
 
 **Tech Stack:**
 - Backend: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-302c24?style=flat&logo=flask&logoColor=white)
@@ -41,8 +41,8 @@ I am a full-stack software engineer offering relevant internship experience and 
 ### ☕ CoffeeMaker
 > A cafe management system built collaboratively in an Agile team environment, streamlining the coffee ordering process.
 
-[![GitHub](https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=GitHub)](link)
-[![Demo](https://img.shields.io/badge/Demo-grey?style=for-the-badge&logo=html5)](link)
+[![GitHub](https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=GitHub)](https://stevenbui44.github.io/#coffeemaker)
+[![Demo](https://img.shields.io/badge/Demo-grey?style=for-the-badge&logo=html5)](https://stevenbui44.github.io/#coffeemaker)
 
 **Tech Stack:**
 - Backend: ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
